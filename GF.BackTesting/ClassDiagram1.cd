@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GF.BackTesting.PriceReader">
+    <Position X="1.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PriceReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GF.BackTesting.NewPriceEventArgs">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>NewPriceEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GF.BackTesting.InMemoryPriceReader">
+    <Position X="1.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAA=</HashCode>
+      <FileName>InMemoryPriceReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

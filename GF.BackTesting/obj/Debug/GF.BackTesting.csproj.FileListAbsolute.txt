@@ -1,0 +1,6 @@
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\bin\Debug\GF.BackTesting.dll
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\bin\Debug\GF.BackTesting.pdb
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\obj\Debug\GF.BackTesting.csprojResolveAssemblyReference.cache
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\obj\Debug\GF.BackTesting.csproj.CoreCompileInputs.cache
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\obj\Debug\GF.BackTesting.dll
+C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting\obj\Debug\GF.BackTesting.pdb
