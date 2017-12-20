@@ -32,19 +32,25 @@ namespace GF.BackTesting.Facts {
     [Fact]
     public void BasicUsage () {
       var reader = new CsvPriceReader("stock1.csv");
-      decimal price = 0m;
+      PriceItem price = null;
       int count = 0;
+      bool foundStopper = false;
 
       reader.NewPrice += (sender, e) => {
-        TestOutput.WriteLine($"{e.Date:s} {e.Last,10:n2} {e.Bid,10:n2} {e.Offer,10:n2}");
-        price = e.Last;
-        count++;
+          if (e.NewPrice == null){
+              foundStopper = true;
+          }
+          else{
+              TestOutput.WriteLine($"{e.NewPrice.Date:s} {e.NewPrice.Last,10:n2} {e.NewPrice.Bid,10:n2} {e.NewPrice.Offer,10:n2}");
+              price = e.NewPrice;
+              count++;
+          }
       };
 
       reader.Start();
 
       Assert.Equal(4, count);
-      Assert.Equal(16m, price);
+      Assert.True(foundStopper);
     }
 
     public void Dispose() {

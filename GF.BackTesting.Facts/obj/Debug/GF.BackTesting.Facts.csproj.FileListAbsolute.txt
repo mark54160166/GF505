@@ -16,3 +16,21 @@ C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesti
 C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting.Facts\bin\Debug\xunit.execution.desktop.xml
 C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.dll
 C:\Users\suthep\Dropbox (Personal)\Trainng Projects - 2017\GF505-06\GF.BackTesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.pdb
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\GF.BackTesting.Facts.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\GF.BackTesting.Facts.pdb
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\GF.BackTesting.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\GF.BackTesting.pdb
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.dll
+C:\Users\Administrator\Desktop\GF505-06\gf.backtesting\GF.BackTesting.Facts\obj\Debug\GF.BackTesting.Facts.pdb
